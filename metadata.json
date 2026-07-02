@@ -1,0 +1,6 @@
+{
+  "name": "Video Wallpaper & Sound",
+  "description": "Apply videos as home or lock wallpaper and cycle notification sounds on every incoming notification with a battery-optimized engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

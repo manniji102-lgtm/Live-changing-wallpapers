@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central stylized media/sound visual icon -->
+    <!-- Large, bold play-button overlapping with a musical note -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,30 L74,54 L38,78 Z" />
+
+    <!-- Musical wave/note overlapping decoration -->
+    <path
+        android:fillColor="#80FFFFFF"
+        android:pathData="M30,50 h4 v8 h-4 z M24,46 h4 v16 h-4 z M18,52 h4 v4 h-4 z M78,48 h4 v12 h-4 z M84,42 h4 v24 h-4 z" />
+</vector>
